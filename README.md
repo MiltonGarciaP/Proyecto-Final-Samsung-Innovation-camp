@@ -1,8 +1,5 @@
 # Proyecto-Final-Samsung-Innovation-camp
 
-Claro, aquí tienes un ejemplo de un README para tu proyecto en GitHub:
-
-```markdown
 # Proyecto de Predicción de Morosidad en la Cartera de Créditos
 
 Este proyecto tiene como objetivo predecir la morosidad en una cartera de créditos utilizando diversos modelos de aprendizaje automático. Los modelos utilizados incluyen Random Forest, Redes Neuronales, SVM, Gradient Boosting y KNN. El análisis se basa en datos relacionados con la clasificación del crédito por riesgo, género, localidad y sectores económicos.
@@ -25,7 +22,7 @@ Este proyecto realiza predicciones sobre la morosidad de créditos utilizando m�
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/tu-proyecto.git
+    git clone https://github.com/MiltonGarciaP/Proyecto-Final-Samsung-Innovation-camp.git
     ```
 
 2. Navega al directorio del proyecto:
@@ -49,9 +46,7 @@ Este proyecto realiza predicciones sobre la morosidad de créditos utilizando m�
 1. Prepara los datos de entrada. Debes tener archivos CSV con la clasificación del crédito por riesgo, género, localidad y sectores económicos.
 
 2. Ejecuta el script principal para entrenar los modelos y generar las visualizaciones:
-    ```sh
-    python main.py
-    ```
+ 
 
 ## Estructura del Proyecto
 
