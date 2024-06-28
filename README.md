@@ -18,6 +18,32 @@ Este proyecto tiene como objetivo predecir la morosidad en una cartera de crédi
 
 Este proyecto realiza predicciones sobre la morosidad de créditos utilizando múltiples modelos de machine learning. Además de entrenar y evaluar los modelos, se generan varias visualizaciones para entender mejor las predicciones y la importancia de las características.
 
+## Integrantes del Equipo y Roles
+###  Milton García
+
+Papel: Cargar los datos en Pandas DataFrames. Asegurarse de que los datos estén correctamente importados y estructurados para su análisis posterior. Verificar la coherencia y calidad de los datos, especialmente en términos de captaciones y créditos por localidad y género.
+### Erick Cuesto
+
+Papel: Explorar los datos para determinar el formato y los atributos necesarios. Evaluar el comportamiento de las captaciones y créditos en diferentes localidades y entre diferentes géneros a lo largo del tiempo, identificando patrones de crecimiento y decrecimiento.
+### Haroldy Martínez
+
+Papel: Crear visualizaciones efectivas para representar los datos de inclusión financiera. Graficar captaciones, créditos y operaciones de subagentes bancarios en diferentes localidades, utilizando subplots para comparar múltiples métricas en una sola figura.
+### Sebastián Espinal
+
+Papel: Realizar el preprocesado de datos. Identificar y corregir valores faltantes o nulos, asegurándose de que todos los datos estén en el formato correcto para el análisis. Normalizar y estandarizar los datos según sea necesario.
+### Madeline Pérez
+
+Papel: Analizar y evaluar las métricas clave de inclusión financiera. Determinar las localidades con mayor y menor acceso a servicios financieros, así como identificar diferencias significativas entre géneros. Evaluar y comparar las métricas de inclusión financiera para hacer recomendaciones específicas.
+### TODO EL EQUIPO - Modelado y Análisis Avanzado con IA
+
+Papel: Implementar técnicas de inteligencia artificial para realizar un análisis avanzado de los datos. Utilizar algoritmos de clustering para segmentar localidades según su nivel de inclusión financiera, y técnicas de regresión para identificar factores clave que afectan la inclusión financiera. Desarrollar modelos predictivos para proponer intervenciones específicas.
+Tecnología y Herramientas Utilizadas
+Lenguaje de Programación: Python
+Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Frameworks: TensorFlow (para análisis avanzado de IA)
+Herramientas de Visualización: Matplotlib, Seaborn
+Plataforma de Desarrollo: Jupyter Notebook
+
 ## Instalación
 
 1. Clona el repositorio:
