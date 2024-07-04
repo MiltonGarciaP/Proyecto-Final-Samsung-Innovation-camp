@@ -12,7 +12,6 @@ Este proyecto tiene como objetivo predecir la morosidad en una cartera de crédi
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Visualizaciones](#visualizaciones)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Descripción
 
